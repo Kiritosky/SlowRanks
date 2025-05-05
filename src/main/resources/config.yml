@@ -1,0 +1,19 @@
+ranks:
+  gold:
+    name: "§aGold"
+    lore:
+      - "§7Dies ist der erste Rang."
+      - "§7Preis: 100 Coins"
+    item: "GOLD_BLOCK"
+    price: 100
+    slot: 10
+    luckperms-rank: "gold"
+  diamond:
+    name: "§bDiamond"
+    lore:
+      - "§7Dies ist der zweite Rang."
+      - "§7Preis: 200 Coins"
+    item: "DIAMOND"
+    price: 200
+    slot: 12
+    luckperms-rank: "diamond"

@@ -1,0 +1,11 @@
+name: SlowRanks
+version: '3.0.2'
+main: plugin.slowRanks.SlowRanks
+api-version: '1.21'
+authors: [ Jxst_Kirito ]
+depend: [ Vault ]
+
+commands:
+  rangshop:
+    description: "Zeigt die Ränge an"
+    usage: "/rangshop"
