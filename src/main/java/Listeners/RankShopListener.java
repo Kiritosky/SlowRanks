@@ -22,7 +22,7 @@ public class RankShopListener implements Listener {
 
             if (clickedItem == null || clickedItem.getType() == Material.AIR) return;
 
-            if (clickedItem.getType() == Material.BARRIER) {
+            if (clickedItem.getType() == Material.BARRIER  && clickedItem.getItemMeta().getDisplayName().equals("§4§lRANGSHOP")) {
                 player.performCommand("rechte");
                 return;
             }
