@@ -1,5 +1,5 @@
 name: SlowRanks
-version: '3.0.4'
+version: '3.0.5'
 main: plugin.slowRanks.SlowRanks
 api-version: '1.21'
 authors: [ Jxst_Kirito ]
